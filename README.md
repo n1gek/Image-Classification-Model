@@ -1,1 +1,2 @@
 # Image-Classification-Model
+This is an Image Classification Model built using Jupyter Notebookes, TensorFlow. The dataset used is the FGVC airplane dataset from Kaggle which contains images of 10 000 aircraft which belong to 100 variants and 30 manufacturers. The model was able to achieve an accuracy of 80.14%, on the variant which is the finest layer when placed in the hierachical order Manufacturer, Family, Variant!
